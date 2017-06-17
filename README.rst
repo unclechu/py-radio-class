@@ -10,7 +10,7 @@ Install
 
 .. code:: bash
 
-  pip install sleekxmpp
+  pip install radio-class
 
 Usage
 -----
