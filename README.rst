@@ -1,8 +1,9 @@
 Radio
 =====
 
-An python event-bus implementation inspired by
-[backbone.radio](https://github.com/marionettejs/backbone.radio).
+An python event-bus implementation inspired by `backbone.radio`__
+
+__ https://github.com/marionettejs/backbone.radio
 
 License
 -------
