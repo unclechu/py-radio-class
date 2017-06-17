@@ -23,9 +23,8 @@ setup(
     name='radio-class',
     version='0.1.0',
 
-    description='An python event-bus implementation',
-    long_description='An python event-bus implementation inspired by'
-                     'backbone.radio',
+    description='Event-bus implementation',
+    long_description='Event-bus implementation inspired by backbone.radio',
 
     url='https://github.com/unclechu/py-radio-class',
 
