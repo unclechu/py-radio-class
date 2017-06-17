@@ -37,6 +37,6 @@ setup(
     platforms=['any'],
     classifiers=CLASSIFIERS,
     keywords='events bus library radio',
-
+    packages=['radio'],
     cmdclass={'test': TestCommand}
 )
